@@ -21,11 +21,11 @@ keep fast moving conversation to smaller channels with focused conversations
   * use [keyboard commands](#useful-keyboard-shortcuts-and-commands)
  to jump to channels that you need to find
 
-* /mute channels aggressively
+* `/mute` channels aggressively
 
 * use stars to keep track of messages for yourself
 
-* use /remind to create a reminder for yourself, a teammate, or a channel to do something
+* use `/remind` to create a reminder for yourself, a teammate, or a channel to do something
 
 * consider muting on-call and alert channels as well as other non-critical channels to increase focus time
 
