@@ -13,7 +13,7 @@ keep fast moving conversation to smaller channels with focused conversations
 
 * Most people should be in a few channels that contain conversation that is highly relevant to their work, and a larger number of low-volume channels that exist to widely disseminate important information
 
-* Standardize channel names so that they're predictable and easy to discover
+* [Standardize channel names](https://github.com/ronnieftw/slack-best-practices/blob/master/channel-names.md) so that they're predictable and easy to discover
 
 ### Slack is overwhelming!! 
 
