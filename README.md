@@ -85,7 +85,7 @@ keep fast moving conversation to smaller channels with focused conversations
 * `/collapse` to collapse all images and unfurls in the current channel
 
 * Esc to mark all messages read in the current channel
-* Shift-Esc to to mark all messages read  in all channels Caution: there is no undo for this
+* Shift-Esc to to mark all messages read  in all channels _Caution: there is no undo for this_
 
 ### Message formatting
 
