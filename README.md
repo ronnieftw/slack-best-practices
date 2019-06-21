@@ -65,7 +65,7 @@ keep fast moving conversation to smaller channels with focused conversations
 
 * set your Slack status (especially helpful for remote people) for when you're on PTO or WFH or at another office, it will appear in the text box as people interact with you 
 
-* use formatting to highlight your text. Emoji, bold, italics are all ways to break up a wall of text to make it easier to read
+* use [formatting](#message-formatting) to highlight your text. Emoji, bold, italics are all ways to break up a wall of text to make it easier to read
 
 * leverage search (Command-F) to find appropriate channels for where to find appropriate channels to get support or ask questions
 
@@ -80,11 +80,17 @@ keep fast moving conversation to smaller channels with focused conversations
 * Command-f search 
 * Command-`/`  brings up the legend for shortcuts
 
-* Use triple quotes to generate multiline code snippets : ```def foo```
-
 * Hit the up arrow while in the desktop to edit the last message you typed.
 
 * `/collapse` to collapse all images and unfurls in the current channel
 
 * Esc to mark all messages read in the current channel
 * Shift-Esc to to mark all messages read  in all channels Caution: there is no undo for this
+
+### Message formatting
+
+* Use triple quotes to generate multiline code snippets : ```def foo```
+* `_word_`  to make _italics_
+* `*word*` to *bold*
+* `~word~` to ~strikethrough~
+* `option-8` for a bullet: •
