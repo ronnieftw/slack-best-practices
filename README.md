@@ -31,7 +31,7 @@ keep fast moving conversation to smaller channels with focused conversations
 
 * set your default DND hours for after hours
 
-* use the ad-hoc snooze setting for focus time
+* use the [ad-hoc snooze setting](https://get.slack.help/hc/en-us/articles/218551977-Reduce-noise-in-Slack#Do-Not-Disturb) for focus time
 
 * archive channels that have outlived their usefulness
 
