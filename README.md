@@ -17,7 +17,7 @@ keep fast moving conversation to smaller channels with focused conversations
 
 ### Slack is overwhelming!! 
 
-* set your sidebar to show only unread channels and starred channels (do this first!)
+* set your sidebar to [show only unread channels and starred channels](https://get.slack.help/hc/en-us/articles/212596808-Manage-your-sidebar-display#-hide-conversations-with-no-unread-activity) (do this first!)
   * use [keyboard commands](#useful-keyboard-shortcuts-and-commands)
  to jump to channels that you need to find
 
